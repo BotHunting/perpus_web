@@ -8,6 +8,6 @@ SIM Perpus
 ---------------------------------------
 ## License
 
-[MIT License](https://github.com/BotHunting/Wa-OpenAI/blob/main/LICENSE)
+[MIT License](https://github.com/BotHunting/)
 
 Copyright (c) 2023 Bot Hunting
