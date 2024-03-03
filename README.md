@@ -10,4 +10,4 @@ SIM Perpus
 
 [MIT License](https://github.com/BotHunting/)
 
-Copyright (c) 2023 Bot Hunting
+Copyright (c) 2024 Bot Hunting
